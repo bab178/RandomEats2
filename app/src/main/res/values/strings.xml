@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomEats2.0</string>
+    <string name="title_activity_maps">RandomEats2.0</string>
+    <string name="button1">Show Radius</string>
+    <string name="button2">Enter</string>
+    <string name="range">Radius Desired</string>
+</resources>
